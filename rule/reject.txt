@@ -1,8 +1,6 @@
 #classical
 # Advertising
 # > General
-- DOMAIN-KEYWORD,adservice
-
 # (0~9)
 # > 51wnl
 - DOMAIN,ad.51wnl-cq.com
