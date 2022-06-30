@@ -118,6 +118,13 @@ rule-providers:
     url: "https://raw.githubusercontent.com/LitchiCherry/Clash/main/rule/microsoft.txt"
     path: ./ruleset/microsoft.yaml
     interval: 86400 
+  
+  airport:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LitchiCherry/Clash/main/rule/airport.txt"
+    path: ./ruleset/airport.yaml
+    interval: 86400 
  
 rules:
  - PROCESS-NAME,wechat.exe,🔰 节点代理
