@@ -238,8 +238,8 @@
 - DOMAIN-SUFFIX,widevine.com
 - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 - DOMAIN-SUFFIX,zynamics.com
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,.blogspot.
+- DOMAIN-KEYWORD,google
+- DOMAIN-KEYWORD,.blogspot.
 - DOMAIN-SUFFIX,goog
 # > Apple
 - DOMAIN,testflight.apple.com
@@ -334,7 +334,7 @@ DOMAIN-KEYWORD,.blogspot.
 - DOMAIN-SUFFIX,rocksdb.org
 - DOMAIN-SUFFIX,whatsapp.com
 - DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,.facebook.
+- DOMAIN-KEYWORD,.facebook.
 # > Microsoft
 - DOMAIN-SUFFIX,aka.ms
 - DOMAIN-SUFFIX,github.blog
@@ -365,7 +365,7 @@ DOMAIN-KEYWORD,.pinterest.
 - DOMAIN-SUFFIX,reutersmedia.net
 # > Steam
 - DOMAIN-SUFFIX,steamcommunity.com
-# - DOMAIN,store.steampowered.com
+- DOMAIN,store.steampowered.com
 # > Telegram
 - DOMAIN-SUFFIX,legra.ph
 - DOMAIN-SUFFIX,t.me
