@@ -1,4 +1,0 @@
-payload:
- - PROCESS-NAME,wechat.exe
- - PROCESS-NAME,QQ.exe
- - PROCESS-NAME,TIM.exe
