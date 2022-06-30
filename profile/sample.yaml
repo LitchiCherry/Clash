@@ -1,0 +1,136 @@
+mixed-port: 10808
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: '127.0.0.1:9090'
+dns:
+    enable: true
+    ipv6: false
+    default-nameserver: [223.5.5.5, 114.114.114.114]
+    enhanced-mode: redir-host
+    fake-ip-range: 198.18.0.1/16
+    use-hosts: true
+    nameserver: ['https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+    fallback: ['tls://1.0.0.1:853', 'https://cloudflare-dns.com/dns-query', 'https://dns.google/dns-query']
+    fallback-filter: { geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32] }
+proxy-providers:
+  infiniport:
+    type: http
+    url: "xxxxx"
+    interval: 86400
+    path: ./infiniport.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.qualcomm.cn/generate_204
+
+  jms:
+    type: http
+    url: "xxxxx"
+    interval: 86400
+    path: ./jms.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.qualcomm.cn/generate_204
+
+proxies:
+proxy-groups:
+  - name: 🔰 节点代理
+    type: select
+    use:
+      - infiniport
+      - jms
+  - name: 🎥 Netflix
+    type: select
+    use:
+      - infiniport
+  - name: 🎥 Youtube
+    type: select
+    use:
+      - infiniport
+      - jms
+    proxies:
+      - 🔰 节点代理
+  - name: Ⓜ️ 微软服务
+    type: select
+    use:
+      - jms
+    proxies:
+      - DIRECT
+      - 🔰 节点代理
+  - name: 📲 电报
+    type: select
+    use:
+      - jms
+    proxies:
+      - 🔰 节点代理
+  - name: ✈ 机场
+    type: select
+    use:
+      - jms
+    proxies:
+      - 🔰 节点代理
+  - name: 🛑 拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+rule-providers:
+  telegramcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt"
+    path: ./ruleset/telegramcidr.yaml
+    interval: 86400
+    
+  reject:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LitchiCherry/Clash/main/rule/reject.txt"
+    path: ./ruleset/reject.yaml
+    interval: 86400
+    
+  proxy:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LitchiCherry/Clash/main/rule/proxy.txt"
+    path: ./ruleset/proxy.yaml
+    interval: 86400
+
+  netflix:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LitchiCherry/Clash/main/rule/netflix.txt"
+    path: ./ruleset/netflix.yaml
+    interval: 86400
+    
+  youtube:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LitchiCherry/Clash/main/rule/youtube.txt"
+    path: ./ruleset/youtube.yaml
+    interval: 86400 
+  
+  youtube:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LitchiCherry/Clash/main/rule/airport.txt"
+    path: ./ruleset/airport.yaml
+    interval: 86400 
+  
+rules:
+ - PROCESS-NAME,wechat.exe,🔰 节点代理
+ - PROCESS-NAME,QQ.exe,🔰 节点代理
+ - PROCESS-NAME,TIM.exe,🔰 节点代理
+ - PROCESS-NAME,Microsoft.Notes.exe,🔰 节点代理
+ - PROCESS-NAME,WinStore.App.exe,🔰 节点代理
+ - RULE-SET,reject,🛑 拦截
+ - RULE-SET,netflix,🎥 Netflix
+ - RULE-SET,netflix,🎥 Youtube
+ - RULE-SET,netflix,✈ 机场
+ - RULE-SET,proxy,🔰 节点代理
+ - RULE-SET,telegramcidr,📲 电报
+ - DOMAIN-SUFFIX,live.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,live.net,Ⓜ️ 微软服务
+ - MATCH,DIRECT
