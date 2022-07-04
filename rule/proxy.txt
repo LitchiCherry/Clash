@@ -240,7 +240,7 @@ payload:
 - DOMAIN-SUFFIX,zynamics.com
 - DOMAIN-KEYWORD,google
 - DOMAIN-KEYWORD,.blogspot.
-- DOMAIN-SUFFIX,goog
+- DOMAIN-SUFFIX,google.com
 # > Apple
 - DOMAIN,testflight.apple.com
 # > Automattic
