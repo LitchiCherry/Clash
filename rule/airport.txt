@@ -7,3 +7,4 @@ payload:
  - DOMAIN-SUFFIX,xmrth.com
  - DOMAIN-SUFFIX,xianchengzhi.top
  - DOMAIN-SUFFIX,prprcheng.com
+ - DOMAIN-SUFFIX,mxwljsq.com
