@@ -1,6 +1,5 @@
 payload:
- - HOST,api.fast.com
- - HOST,netflix.com.edgesuite.net
+ - HOST-SUFFIX,edgesuite.net
  - HOST-SUFFIX,fast.com
  - HOST-SUFFIX,netflix.ca
  - HOST-SUFFIX,netflix.com
