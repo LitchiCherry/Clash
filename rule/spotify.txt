@@ -1,4 +1,4 @@
-payload
+payload:
  - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
  - DOMAIN-SUFFIX,byspotify.com
  - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
