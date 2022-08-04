@@ -2,6 +2,7 @@ payload:
 #addition
 - DOMAIN-SUFFIX,apkpure.com
 - DOMAIN-SUFFIX,apkmirror.com
+- DOMAIN-SUFFIX,gstatic.com
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
