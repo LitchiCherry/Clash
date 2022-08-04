@@ -1,4 +1,6 @@
 payload:
+#addition
+- DOMAIN-SUFFIX,google-analytics.com
 # > 51wnl
 - DOMAIN,ad.51wnl-cq.com
 - DOMAIN,adextra.51wnl-cq.com
