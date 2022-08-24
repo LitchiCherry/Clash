@@ -3,6 +3,7 @@ payload:
 - DOMAIN-SUFFIX,apkpure.com
 - DOMAIN-SUFFIX,apkmirror.com
 - DOMAIN-SUFFIX,gstatic.com
+- DOMAIN-SUFFIX,doubleclick.net
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
