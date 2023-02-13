@@ -1,5 +1,6 @@
 payload:
  - DOMAIN-SUFFIX,oyunfor.com
+ - DOMAIN-SUFFIX,surfingame.xyz
  - DOMAIN-SUFFIX,iyzipay.com
  - IP-CIDR,49.51.89.0/22
  - IP-CIDR,49.51.88.0/22
