@@ -4,4 +4,4 @@ payload:
  - DOMAIN-SUFFIX,iyzipay.com
  - IP-CIDR,49.51.89.0/22
  - IP-CIDR,49.51.88.0/22
- - IP-CIDR,101.32.118.0/22
+ - IP-CIDR,52.68.188.122/32
