@@ -8,6 +8,8 @@ payload:
 - DOMAIN-SUFFIX,nfdns.top
 - DOMAIN-SUFFIX,torrentkitty.tv
 - DOMAIN-SUFFIX,missav.com
+- DOMAIN-SUFFIX,91porn.com
+- DOMAIN-SUFFIX,javmost.com
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
