@@ -10,6 +10,7 @@ payload:
 - DOMAIN-SUFFIX,missav.com
 - DOMAIN-SUFFIX,91porn.com
 - DOMAIN-SUFFIX,javmost.com
+- DOMAIN-SUFFIX,killcovid2021.com
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
