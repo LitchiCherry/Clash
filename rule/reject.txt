@@ -2,6 +2,8 @@ payload:
 #addition
 - DOMAIN-SUFFIX,unityads.unity3d.com
 - DOMAIN-SUFFIX,unityads.unitychina.cn
+- DOMAIN-SUFFIX,applovin.com
+- DOMAIN-SUFFIX,doubleclick.net
 # > 51wnl
 - DOMAIN,ad.51wnl-cq.com
 - DOMAIN,adextra.51wnl-cq.com
