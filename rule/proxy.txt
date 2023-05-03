@@ -9,9 +9,11 @@ payload:
 - DOMAIN-SUFFIX,torrentkitty.tv
 - DOMAIN-SUFFIX,missav.com
 - DOMAIN-SUFFIX,91porn.com
+- DOMAIN-SUFFIX,91porny.com
 - DOMAIN-SUFFIX,javmost.com
 - DOMAIN-SUFFIX,killcovid2021.com
 - DOMAIN-SUFFIX,javbus.com
+- DOMAIN-SUFFIX,jsdelivr.net
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
