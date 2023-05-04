@@ -14,6 +14,7 @@ payload:
 - DOMAIN-SUFFIX,killcovid2021.com
 - DOMAIN-SUFFIX,javbus.com
 - DOMAIN-SUFFIX,jsdelivr.net
+- DOMAIN-SUFFIX,openai.com
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
