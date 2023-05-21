@@ -15,6 +15,7 @@ payload:
 - DOMAIN-SUFFIX,javbus.com
 - DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-SUFFIX,openai.com
+- DOMAIN-SUFFIX,v2rayssr.com
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
