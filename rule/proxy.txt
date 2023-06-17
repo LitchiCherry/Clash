@@ -17,6 +17,7 @@ payload:
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,v2rayssr.com
 - DOMAIN-SUFFIX,trakt.tv
+- DOMAIN-SUFFIX,docker.com
 
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
