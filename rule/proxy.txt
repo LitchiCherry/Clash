@@ -21,6 +21,7 @@ payload:
 - DOMAIN-SUFFIX,singlelogin.me
 - DOMAIN-SUFFIX,zlibrary-jp.se
 - DOMAIN-SUFFIX,zlibrary-global.se
+- DOMAIN-SUFFIX,cn1lib.is
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
