@@ -18,6 +18,7 @@ payload:
 - DOMAIN-SUFFIX,v2rayssr.com
 - DOMAIN-SUFFIX,trakt.tv
 - DOMAIN-SUFFIX,docker.com
+- DOMAIN-SUFFIX,singlelogin.me
 
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
