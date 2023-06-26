@@ -19,7 +19,8 @@ payload:
 - DOMAIN-SUFFIX,trakt.tv
 - DOMAIN-SUFFIX,docker.com
 - DOMAIN-SUFFIX,singlelogin.me
-
+- DOMAIN-SUFFIX,zlibrary-jp.se
+- DOMAIN-SUFFIX,zlibrary-global.se
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
