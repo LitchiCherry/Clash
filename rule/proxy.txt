@@ -22,6 +22,7 @@ payload:
 - DOMAIN-SUFFIX,zlibrary-jp.se
 - DOMAIN-SUFFIX,zlibrary-global.se
 - DOMAIN-SUFFIX,cn1lib.is
+- DOMAIN-SUFFIX,resist.tel
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
