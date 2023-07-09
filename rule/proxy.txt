@@ -23,6 +23,7 @@ payload:
 - DOMAIN-SUFFIX,zlibrary-global.se
 - DOMAIN-SUFFIX,cn1lib.is
 - DOMAIN-SUFFIX,resist.tel
+- DOMAIN-SUFFIX,cloudflareclient.com
 # (D.C.S.G?)
 - DOMAIN-SUFFIX,9cache.com
 - DOMAIN-SUFFIX,9gag.com
