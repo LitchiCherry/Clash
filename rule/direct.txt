@@ -12,5 +12,5 @@ payload:
  - IP-CIDR,17.57.144.0/16
  - IP-CIDR,17.188.128.0/16
  - IP-CIDR,17.188.20.0/16
- - DOMAIN,apps.apple.com
- - DOMAIN,itunes.apple.com
+ - DOMAIN-SUFFIX,apple.com
+ - DOMAIN-SUFFIX,digicert.com
