@@ -14,3 +14,6 @@ payload:
  - IP-CIDR,17.188.20.0/16
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,digicert.com
+ - DOMAIN-SUFFIX,wechat.com
+ - DOMAIN-SUFFIX,weixin.com
+ - DOMAIN-SUFFIX,tencent.com
