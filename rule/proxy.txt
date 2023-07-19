@@ -1,5 +1,7 @@
 payload:
 #addition
+- DOMAIN-SUFFIX,wpad.dyk.com
+- DOMAIN-SUFFIX,functional.events.data.microsoft.com
 - DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-SUFFIX,apkpure.com
 - DOMAIN-SUFFIX,apkmirror.com
