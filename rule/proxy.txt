@@ -1,5 +1,6 @@
 payload:
 #addition
+- DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-SUFFIX,apkpure.com
 - DOMAIN-SUFFIX,apkmirror.com
 - DOMAIN-SUFFIX,gstatic.com
