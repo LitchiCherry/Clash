@@ -1,5 +1,7 @@
 payload:
 #addition
+- DOMAIN-SUFFIX,91ai.net
+- DOMAIN-SUFFIX,hostloc.com
 - DOMAIN-SUFFIX,nnr.more
 - DOMAIN-SUFFIX,wpad.dyk.com
 - DOMAIN-SUFFIX,functional.events.data.microsoft.com
