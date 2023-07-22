@@ -20,3 +20,6 @@ payload:
  - DOMAIN-SUFFIX,wechat.com
  - DOMAIN-SUFFIX,weixin.com
  - DOMAIN-SUFFIX,tencent.com
+ - DOMAIN-SUFFIX,windowsupdate.com
+ - DOMAIN-SUFFIX,update.microsoft.com
+ - DOMAIN-SUFFIX,update.windows.com
