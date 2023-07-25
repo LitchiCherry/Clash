@@ -12,6 +12,7 @@ payload:
  - IP-CIDR,17.57.144.0/16
  - IP-CIDR,17.188.128.0/16
  - IP-CIDR,17.188.20.0/16
+ - IP-CIDR,8.210.73.205/16
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,apple.cn
  - DOMAIN-SUFFIX,icloud.com
@@ -23,3 +24,7 @@ payload:
  - DOMAIN-SUFFIX,windowsupdate.com
  - DOMAIN-SUFFIX,update.microsoft.com
  - DOMAIN-SUFFIX,update.windows.com
+ - DOMAIN-SUFFIX,amplitude.com
+ - DOMAIN-SUFFIX,cloudflare.net
+ - DOMAIN-SUFFIX,okx.com
+ - DOMAIN-SUFFIX,cloudfront.net
