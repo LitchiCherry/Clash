@@ -31,3 +31,4 @@ payload:
  - DOMAIN-SUFFIX,cloudfront.net
  - DOMAIN-SUFFIX,cloudflare-dns.com
  - DOMAIN-SUFFIX,cloudflare.com
+ - DOMAIN-SUFFIX,surfingame.xyz
