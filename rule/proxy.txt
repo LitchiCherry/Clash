@@ -1,5 +1,6 @@
 payload:
 #addition
+- DOMAIN,www.okx.com
 - DOMAIN-SUFFIX,tmdb.org
 - DOMAIN-SUFFIX,91ai.net
 - DOMAIN-SUFFIX,hostloc.com
