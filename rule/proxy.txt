@@ -1,5 +1,6 @@
 payload:
 #addition
+- DOMAIN,openaiapi-site.azureedge.net
 - DOMAIN,www.okx.com
 - DOMAIN-SUFFIX,tmdb.org
 - DOMAIN-SUFFIX,91ai.net
