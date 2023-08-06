@@ -1,6 +1,7 @@
 payload:
 #addition
 - DOMAIN-SUFFIX,skk.moe
+- DOMAIN-SUFFIX,91zuixindizhi.com
 - DOMAIN-SUFFIX,jsdelivr2.com
 - DOMAIN-SUFFIX,bigcloud.click
 - DOMAIN-SUFFIX,streamsb.net
