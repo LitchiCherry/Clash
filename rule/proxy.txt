@@ -2,6 +2,7 @@ payload:
 #addition
 - DOMAIN-SUFFIX,skk.moe
 - DOMAIN-SUFFIX,streamsb.net
+- DOMAIN,streamsb.net
 - DOMAIN-SUFFIX,subtitlecloud.one
 - DOMAIN-SUFFIX,porndudecdn.com
 - DOMAIN-SUFFIX,fluidplayer.com
