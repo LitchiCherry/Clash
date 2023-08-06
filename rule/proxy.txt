@@ -1,6 +1,6 @@
 payload:
 #addition
-- DOMAIN-SUFFIX,sstreamsb.net
+- DOMAIN-SUFFIX,streamsb.net
 - DOMAIN-SUFFIX,subtitlecloud.one
 - DOMAIN-SUFFIX,porndudecdn.com
 - DOMAIN-SUFFIX,fluidplayer.com
