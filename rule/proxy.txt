@@ -1,6 +1,9 @@
 payload:
 #addition
-- DOMAIN,fluidplayer.com
+- DOMAIN-SUFFIX,sstreamsb.net
+- DOMAIN-SUFFIX,subtitlecloud.one
+- DOMAIN-SUFFIX,porndudecdn.com
+- DOMAIN-SUFFIX,fluidplayer.com
 - DOMAIN,openaiapi-site.azureedge.net
 - DOMAIN,www.okx.com
 - DOMAIN-SUFFIX,tmdb.org
