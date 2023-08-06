@@ -5,7 +5,8 @@ payload:
 - DOMAIN,streamsb.net
 - DOMAIN,mm9842.com
 - DOMAIN-SUFFIX,mm9842.com
-- DOMAIN-SUFFIX,ipify.com
+- DOMAIN-SUFFIX,ipify.org
+- DOMAIN-SUFFIX,ninjatream.to
 - DOMAIN-SUFFIX,doodcdn.co
 - DOMAIN-SUFFIX,subtitlecloud.one
 - DOMAIN-SUFFIX,porndudecdn.com
