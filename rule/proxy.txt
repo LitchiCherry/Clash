@@ -3,6 +3,10 @@ payload:
 - DOMAIN-SUFFIX,skk.moe
 - DOMAIN-SUFFIX,streamsb.net
 - DOMAIN,streamsb.net
+- DOMAIN,mm9842.com
+- DOMAIN-SUFFIX,mm9842.com
+- DOMAIN-SUFFIX,ipify.com
+- DOMAIN-SUFFIX,doodcdn.co
 - DOMAIN-SUFFIX,subtitlecloud.one
 - DOMAIN-SUFFIX,porndudecdn.com
 - DOMAIN-SUFFIX,fluidplayer.com
