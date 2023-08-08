@@ -1,6 +1,5 @@
 payload:
 #addition
-- DOMAIN-SUFFIX,skk.moe
 - DOMAIN-SUFFIX,91zuixindizhi.com
 - DOMAIN-SUFFIX,9p9.xyz
 - DOMAIN-SUFFIX,91p01.app
@@ -11,8 +10,6 @@ payload:
 - DOMAIN,mm9842.com
 - DOMAIN-SUFFIX,mm9842.com
 - DOMAIN-SUFFIX,appcdn01.xyz
-- DOMAIN-SUFFIX,ipify.org
-- DOMAIN,ipify.org
 - DOMAIN-SUFFIX,ninjatream.to
 - DOMAIN-SUFFIX,doodcdn.com
 - DOMAIN-SUFFIX,dood.video
