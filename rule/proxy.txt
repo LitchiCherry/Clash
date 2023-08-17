@@ -1,5 +1,6 @@
 payload:
 #addition
+- DOMAIN-SUFFIX,instapaper.com
 - DOMAIN-SUFFIX,bulianglin.com
 - DOMAIN-SUFFIX,91zuixindizhi.com
 - DOMAIN-SUFFIX,9p9.xyz
