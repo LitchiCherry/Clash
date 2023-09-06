@@ -1,3 +1,4 @@
 payload:
  - DOMAIN-SUFFIX,live.com
  - DOMAIN-SUFFIX,live.net
+ - DOMAIN-SUFFIX,microsoftonline.com
