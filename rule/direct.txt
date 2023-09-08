@@ -2,6 +2,7 @@ payload:
  - DOMAIN-KEYWORD,ecej.com
  - DOMAIN,apps.apple.com
  - DOMAIN,itunes.apple.com
+ - DOMAIN,aws.amazon.com
  - DOMAIN-KEYWORD,apple-support.akadns.net
  - DOMAIN-KEYWORD,apple.com.akadns.net
  - DOMAIN-KEYWORD,apple.com.edgekey.net
