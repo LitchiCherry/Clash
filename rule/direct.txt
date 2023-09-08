@@ -9,6 +9,7 @@ payload:
  - DOMAIN-KEYWORD,testflight
  - DOMAIN-KEYWORD,icloud.com.akadns.net
  - IP-CIDR,139.178.128.0/18
+ - IP-CIDR,43.156.222.0/24
  - IP-CIDR,144.178.0.0/19
  - IP-CIDR,144.178.36.0/22
  - IP-CIDR,144.178.48.0/20
@@ -24,6 +25,7 @@ payload:
  - DOMAIN,idmsa.apple.com
  - DOMAIN-SUFFIX,oyunfor.com
  - DOMAIN-SUFFIX,surfingame.xyz
+ - DOMAIN-SUFFIX,iyzipay.com
  - DOMAIN-SUFFIX,iyzipay.com
  - IP-CIDR,49.51.89.0/22
  - IP-CIDR,49.51.88.0/22
