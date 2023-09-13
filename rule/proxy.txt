@@ -1,6 +1,5 @@
 payload:
 #addition
-- DOMAIN-SUFFIX,scdn.co
 - IP-CIDR,1.1.1.1/32
 - IP-CIDR,1.0.0.1/32
 - DOMAIN-SUFFIX,opendns.com
