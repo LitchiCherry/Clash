@@ -1,4 +1,6 @@
 payload:
+ - IP-CIDR,52.76.31.133/32
+ - DOMAIN-KEYWORD,surfingame.win
  - DOMAIN-KEYWORD,ecej.com
  - DOMAIN,apps.apple.com
  - DOMAIN,itunes.apple.com
