@@ -6,6 +6,7 @@ payload:
 - DOMAIN-SUFFIX,jb200.com
 - DOMAIN-SUFFIX,ctinews.com
 - DOMAIN-SUFFIX,ttwstatic.com
+- DOMAIN-SUFFIX,91cloud.xyz
 - DOMAIN-SUFFIX,aadcdn.msauth.net
 - DOMAIN-SUFFIX,instapaper.com
 - DOMAIN-SUFFIX,bulianglin.com
