@@ -3,6 +3,7 @@ payload:
 - IP-CIDR,1.1.1.1/32
 - IP-CIDR,1.0.0.1/32
 - DOMAIN-SUFFIX,opendns.com
+- DOMAIN-SUFFIX,yypro.pro
 - DOMAIN-SUFFIX,mojie.me
 - DOMAIN-SUFFIX,jb200.com
 - DOMAIN-SUFFIX,ctinews.com
