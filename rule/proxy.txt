@@ -4,6 +4,7 @@ payload:
 - IP-CIDR,1.0.0.1/32
 - DOMAIN-SUFFIX,opendns.com
 - DOMAIN-SUFFIX,yywl.org
+- DOMAIN-SUFFIX,yypro01.pro
 - DOMAIN-SUFFIX,www2.work
 - DOMAIN-SUFFIX,mojie.me
 - DOMAIN-SUFFIX,jb200.com
