@@ -10,3 +10,4 @@ payload:
  - DOMAIN-SUFFIX,mxwljsq.com
  - DOMAIN-SUFFIX,publicss.cc
  - DOMAIN-KEYWORD,circloud
+ - DOMAIN-KEYWORD,mojie.me
