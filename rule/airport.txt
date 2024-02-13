@@ -11,3 +11,6 @@ payload:
  - DOMAIN-SUFFIX,publicss.cc
  - DOMAIN-KEYWORD,circloud
  - DOMAIN-KEYWORD,mojie.me
+ - DOMAIN-SUFFIX,yypro.pro
+ - DOMAIN-SUFFIX,ciyy.cc
+ - DOMAIN-SUFFIX,lycoris.asia
