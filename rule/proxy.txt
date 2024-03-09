@@ -13,6 +13,8 @@ payload:
 - DOMAIN-SUFFIX,ttwstatic.com
 - DOMAIN-SUFFIX,91cloud.xyz
 - DOMAIN-SUFFIX,qy0.ru
+- DOMAIN-SUFFIX,comicun.com
+- DOMAIN-SUFFIX,nyahentai.info
 - DOMAIN-SUFFIX,aadcdn.msauth.net
 - DOMAIN-SUFFIX,instapaper.com
 - DOMAIN-SUFFIX,bulianglin.com
