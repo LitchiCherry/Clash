@@ -14,3 +14,4 @@ payload:
  - DOMAIN-SUFFIX,yypro01.pro
  - DOMAIN-SUFFIX,ciyy.cc
  - DOMAIN-SUFFIX,lycoris.asia
+ - DOMAIN-SUFFIX,lycoris.one
