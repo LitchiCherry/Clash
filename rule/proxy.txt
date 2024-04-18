@@ -3,6 +3,7 @@ payload:
 - IP-CIDR,1.1.1.1/32
 - IP-CIDR,1.0.0.1/32
 - DOMAIN-SUFFIX,opendns.com
+- DOMAIN-SUFFIX,houxu.app
 - DOMAIN-SUFFIX,yywl.org
 - DOMAIN-SUFFIX,mofayun.online
 - DOMAIN-SUFFIX,yypro01.pro
