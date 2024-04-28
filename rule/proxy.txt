@@ -4,6 +4,8 @@ payload:
 - IP-CIDR,1.0.0.1/32
 - IP-CIDR,210.66.249.209/24
 - IP-CIDR,119.247.251.77/24
+- DOMAIN-SUFFIX,singular.net
+- DOMAIN-SUFFIX,licdn.com
 - DOMAIN-SUFFIX,opendns.com
 - DOMAIN-SUFFIX,houxu.app
 - DOMAIN-SUFFIX,yywl.org
