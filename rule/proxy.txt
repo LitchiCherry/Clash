@@ -8,6 +8,7 @@ payload:
 - DOMAIN-SUFFIX,licdn.com
 - DOMAIN-SUFFIX,opendns.com
 - DOMAIN-SUFFIX,houxu.app
+- DOMAIN-SUFFIX,ipify.org
 - DOMAIN-SUFFIX,yywl.org
 - DOMAIN-SUFFIX,mofayun.online
 - DOMAIN-SUFFIX,yypro01.pro
