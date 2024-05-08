@@ -20,6 +20,9 @@ payload:
 - DOMAIN-SUFFIX,uniquestream.net
 - DOMAIN-SUFFIX,fmoviesz.to
 - DOMAIN-SUFFIX,vidsrc.to
+- DOMAIN-SUFFIX,zcdn.stream
+- DOMAIN-SUFFIX,rabbitstream.net
+- DOMAIN-SUFFIX,vodstream.xyz
 - DOMAIN-SUFFIX,singular.net
 - DOMAIN-SUFFIX,licdn.com
 - DOMAIN-SUFFIX,opendns.com
