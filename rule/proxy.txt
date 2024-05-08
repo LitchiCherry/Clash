@@ -10,8 +10,16 @@ payload:
 - DOMAIN-SUFFIX,moviesapi.club
 - DOMAIN-SUFFIX,emovies.si
 - DOMAIN-SUFFIX,myfilestorage.xyz
-- DOMAIN-SUFFIX,embed.smashystream.com
+- DOMAIN-SUFFIX,smashystream.com
 - DOMAIN-SUFFIX,fmovies.ps
+- DOMAIN-SUFFIX,vidsrc.pro
+- DOMAIN-SUFFIX,ridomovies.tv
+- DOMAIN-SUFFIX,gomovies-online.cam
+- DOMAIN-SUFFIX,justbinge.lol
+- DOMAIN-SUFFIX,nites.is
+- DOMAIN-SUFFIX,uniquestream.net
+- DOMAIN-SUFFIX,fmoviesz.to
+- DOMAIN-SUFFIX,vidsrc.to
 - DOMAIN-SUFFIX,singular.net
 - DOMAIN-SUFFIX,licdn.com
 - DOMAIN-SUFFIX,opendns.com
