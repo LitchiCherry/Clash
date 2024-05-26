@@ -40,6 +40,7 @@ payload:
  - IP-CIDR,17.188.128.0/16
  - IP-CIDR,17.188.20.0/16
  - IP-CIDR,8.210.73.205/16
+ - DOMAIN-SUFFIX,emby.misakaf.org
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,apple.cn
  - DOMAIN-SUFFIX,icloud.com
