@@ -5,3 +5,4 @@ payload:
 - DOMAIN-SUFFIX,stream4.misakaf.org
 - DOMAIN-SUFFIX,stream5.misakaf.org
 - DOMAIN-SUFFIX,stream6.misakaf.org
+- DOMAIN-SUFFIX,maoxiong.cloud
