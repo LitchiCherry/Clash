@@ -4,7 +4,8 @@ payload:
  - DOMAIN-KEYWORD,ecej.com
  - DOMAIN,apps.apple.com
  - DOMAIN,itunes.apple.com
- - DOMAIN-SUFFIX*.aws.amazon.com
+ - DOMAIN-SUFFIX,aws.amazon.com
+ - DOMAIN-SUFFIX,tv.micu.hk
  - DOMAIN-KEYWORD,apple-support.akadns.net
  - DOMAIN-KEYWORD,apple.com.akadns.net
  - DOMAIN-KEYWORD,apple.com.edgekey.net
