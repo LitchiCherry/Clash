@@ -5,6 +5,7 @@ payload:
 - IP-CIDR,210.66.249.209/24
 - IP-CIDR,119.247.251.77/24
 - DOMAIN-SUFFIX,ymovies.vip
+- DOMAIN-SUFFIX,aaplimg.com
 - DOMAIN-SUFFIX,javcdn.cc
 - DOMAIN-SUFFIX,javcdn.com
 - DOMAIN-SUFFIX,seejav.com
