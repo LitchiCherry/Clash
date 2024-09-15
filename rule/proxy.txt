@@ -7,6 +7,7 @@ payload:
 - DOMAIN-SUFFIX,ymovies.vip
 - DOMAIN-SUFFIX,aaplimg.com
 - DOMAIN-SUFFIX,javcdn.cc
+- DOMAIN-SUFFIX,9p47p.com
 - DOMAIN-SUFFIX,javcdn.com
 - DOMAIN-SUFFIX,seejav.com
 - DOMAIN-SUFFIX,vidsrc.xyz
