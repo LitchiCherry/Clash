@@ -4,6 +4,7 @@ payload:
 - IP-CIDR,1.0.0.1/32
 - IP-CIDR,210.66.249.209/24
 - IP-CIDR,119.247.251.77/24
+- DOMAIN-SUFFIX,alistgo.com
 - DOMAIN-SUFFIX,ymovies.vip
 - DOMAIN-SUFFIX,592083.xyz
 - DOMAIN-SUFFIX,v2ray-agent
