@@ -1,7 +1,14 @@
 payload:
  - IP-CIDR,52.76.31.133/32
- - DOMAIN-KEYWORD,surfingame.win
  - DOMAIN-KEYWORD,ecej.com
+ - DOMAIN,route-stats.d.meituan.net
+ - DOMAIN-SUFFIX,miku.hk
+ - DOMAIN-SUFFIX,nanflix.net
+ - DOMAIN-SUFFIX,kelee.one
+ - DOMAIN-SUFFIX,zuihuimai.com
+ - DOMAIN-SUFFIX,cpic.com.cn
+ - DOMAIN-SUFFIX,surfingame.win
+ - DOMAIN-SUFFIX,naizi.win
  - DOMAIN,apps.apple.com
  - DOMAIN,itunes.apple.com
  - DOMAIN-SUFFIX,aws.amazon.com
