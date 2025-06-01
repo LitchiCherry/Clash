@@ -5,6 +5,8 @@ payload:
 - IP-CIDR,210.66.249.209/24
 - IP-CIDR,119.247.251.77/24
 - DOMAIN-SUFFIX,converter-mitce.sakuraikaede.com
+- DOMAIN-SUFFIX,ehgt.org
+- DOMAIN-SUFFIX,e-hentai.org
 - DOMAIN-SUFFIX,mitce.net
 - DOMAIN-SUFFIX,mitce.com
 - DOMAIN-SUFFIX,91selife.com
