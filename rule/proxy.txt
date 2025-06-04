@@ -1,9 +1,9 @@
 payload:
 #addition
-- IP-CIDR,1.1.1.1/32
-- IP-CIDR,1.0.0.1/32
-- IP-CIDR,210.66.249.209/24
-- IP-CIDR,119.247.251.77/24
+- IP-CIDR,1.1.1.1/32,no-resolve
+- IP-CIDR,1.0.0.1/32,no-resolve
+- IP-CIDR,210.66.249.209/24,no-resolve
+- IP-CIDR,119.247.251.77/24,no-resolve
 - DOMAIN-SUFFIX,converter-mitce.sakuraikaede.com
 - DOMAIN-SUFFIX,ehgt.org
 - DOMAIN-SUFFIX,177pica.com
