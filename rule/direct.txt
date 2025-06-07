@@ -1,5 +1,15 @@
 payload:
  - IP-CIDR,52.76.31.133/32
+ - DOMAIN-SUFFIX,aaplimg.com
+ - DOMAIN-SUFFIX,apple-mapkit.com
+ - DOMAIN-SUFFIX,apple-support.akadns.net
+ - DOMAIN-SUFFIX,apple.co
+ - DOMAIN-SUFFIX,apple.com
+ - DOMAIN-SUFFIX,apple.com.cn
+ - DOMAIN-SUFFIX,pple.com.edgekey.net
+ - DOMAIN-KEYWORD,apple.com.akadns.net
+ - DOMAIN-KEYWORD,apple.com.edgekey.net
+ - DOMAIN-KEYWORD,apple-support.akadns.net
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,apple.com.cn
  - DOMAIN-KEYWORD,apple-support.akadns.net
