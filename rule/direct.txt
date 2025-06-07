@@ -2,6 +2,11 @@ payload:
  - IP-CIDR,52.76.31.133/32
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,apple.com.cn
+ - DOMAIN-KEYWORD,apple-support.akadns.net
+ - DOMAIN-KEYWORD,apple.com.akadns.net
+ - DOMAIN-KEYWORD,apple.com.edgekey.net
+ - DOMAIN-KEYWORD,testflight
+ - DOMAIN-KEYWORD,icloud.com.akadns.net
  - DOMAIN-KEYWORD,ecej.com
  - DOMAIN,route-stats.d.meituan.net
  - DOMAIN-SUFFIX,miku.hk
@@ -11,15 +16,8 @@ payload:
  - DOMAIN-SUFFIX,cpic.com.cn
  - DOMAIN-SUFFIX,surfingame.win
  - DOMAIN-SUFFIX,naizi.win
- - DOMAIN,apps.apple.com
- - DOMAIN,itunes.apple.com
  - DOMAIN-SUFFIX,aws.amazon.com
  - DOMAIN-SUFFIX,tv.micu.hk
- - DOMAIN-KEYWORD,apple-support.akadns.net
- - DOMAIN-KEYWORD,apple.com.akadns.net
- - DOMAIN-KEYWORD,apple.com.edgekey.net
- - DOMAIN-KEYWORD,testflight
- - DOMAIN-KEYWORD,icloud.com.akadns.net
  - IP-CIDR,139.178.128.0/18
  - IP-CIDR,43.156.222.0/24
  - IP-CIDR,144.178.0.0/19
