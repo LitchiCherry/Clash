@@ -1,5 +1,7 @@
 payload:
  - IP-CIDR,52.76.31.133/32
+ - DOMAIN-SUFFIX,apple.com
+ - DOMAIN-SUFFIX,apple.com.cn
  - DOMAIN-KEYWORD,ecej.com
  - DOMAIN,route-stats.d.meituan.net
  - DOMAIN-SUFFIX,miku.hk
