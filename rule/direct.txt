@@ -27,7 +27,7 @@ payload:
  - DOMAIN-SUFFIX,surfingame.win
  - DOMAIN-SUFFIX,naizi.win
  - DOMAIN-SUFFIX,aws.amazon.com
- - DOMAIN-SUFFIX,tv.micu.hk
+ - DOMAIN-SUFFIX,micu.hk
  - IP-CIDR,139.178.128.0/18
  - IP-CIDR,43.156.222.0/24
  - IP-CIDR,144.178.0.0/19
