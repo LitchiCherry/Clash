@@ -1,11 +1,11 @@
 payload:
 
  - DOMAIN-SUFFIX,alicdn.com
- - DOMAIN-SUFFIX, usertrust.com
+ - DOMAIN-SUFFIX,usertrust.com
  - DOMAIN-SUFFIX,apple-dns.cn
- - DOMAIN-SUFFIX, mzstatic.com
+ - DOMAIN-SUFFIX,mzstatic.com
  - DOMAIN-SUFFIX,cup.com.cn
- - DOMAIN-KEYWORD, apple.com
+ - DOMAIN-KEYWORD,apple.com
  - DOMAIN-SUFFIX,xiaohongshu
  - DOMAIN-SUFFIX,apple-dns.net
  - IP-CIDR,52.76.31.133/32
