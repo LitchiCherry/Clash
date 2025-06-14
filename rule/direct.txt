@@ -10,6 +10,8 @@ payload:
  - DOMAIN-KEYWORD,apple.com.akadns.net
  - DOMAIN-KEYWORD,apple.com.edgekey.net
  - DOMAIN-KEYWORD,apple-support.akadns.net
+ - DOMAIN-KEYWORD,apple.com
+ - DOMAIN-SUFFIX,apple-dns.net
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,apple.com.cn
  - DOMAIN-KEYWORD,apple-support.akadns.net
