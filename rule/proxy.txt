@@ -6,7 +6,6 @@ payload:
 - IP-CIDR,119.247.251.77/24,no-resolve
 - DOMAIN-SUFFIX,converter-mitce.sakuraikaede.com
 - DOMAIN-SUFFIX,ehgt.org
-- DOMAIN-SUFFIX,subtitlecat.com
 - DOMAIN-SUFFIX,177pica.com
 - DOMAIN-SUFFIX,18comic.org
 - DOMAIN-SUFFIX,twhentai.com
