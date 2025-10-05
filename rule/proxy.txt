@@ -1,5 +1,10 @@
 payload:
 #addition
+- DOMAIN-SUFFIX,novahd.top
+- DOMAIN-SUFFIX,dubhe.site
+- DOMAIN-SUFFIX,gtkpw.xyz
+- DOMAIN-SUFFIX,gyhpp.cc
+- DOMAIN-SUFFIX,lajidui.top
 - IP-CIDR,1.1.1.1/32,no-resolve
 - IP-CIDR,1.0.0.1/32,no-resolve
 - IP-CIDR,210.66.249.209/24,no-resolve
