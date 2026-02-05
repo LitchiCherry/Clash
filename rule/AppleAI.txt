@@ -1,3 +1,4 @@
+payload:
 - DOMAIN-SUFFIX,smoot.apple.com
 - DOMAIN-SUFFIX,guzzoni.apple.com
 - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
@@ -6,3 +7,5 @@
 - DOMAIN-SUFFIX,apple-relay.apple.com
 - DOMAIN-SUFFIX,apple-relay.cloudflare.com
 - DOMAIN-SUFFIX,cp4.cloudflare.com
+- DOMAIN-SUFFIX,api.cloudflare.com
+- DOMAIN-SUFFIX,aaplimg.com
