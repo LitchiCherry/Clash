@@ -1,6 +1,7 @@
 payload:
 #addition
 - DOMAIN-SUFFIX,dmm.co.jp
+- DOMAIN-SUFFIX,mivm.tv
 - DOMAIN-SUFFIX,novahd.top
 - DOMAIN-SUFFIX,dubhe.site
 - DOMAIN-SUFFIX,gtkpw.xyz
