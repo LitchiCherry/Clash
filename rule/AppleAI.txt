@@ -14,3 +14,4 @@ payload:
 - DOMAIN-SUFFIX,featureassets.org
 - DOMAIN-SUFFIX,mask-api.icloud.com
 - DOMAIN-SUFFIX,init-china.itunes-apple.com.akadns.net
+- DOMAIN-SUFFIX,prodregistryv2.org
