@@ -11,3 +11,4 @@ payload:
 - DOMAIN-SUFFIX,aaplimg.com
 - DOMAIN-SUFFIX,is1-ssl.mzstatic.com
 - DOMAIN-SUFFIX,configuration.ls.apple.com
+- DOMAIN-SUFFIX,featureassets.org
