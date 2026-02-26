@@ -9,3 +9,4 @@ payload:
 - DOMAIN-SUFFIX,cp4.cloudflare.com
 - DOMAIN-SUFFIX,api.cloudflare.com
 - DOMAIN-SUFFIX,aaplimg.com
+- DOMAIN-SUFFIX,is1-ssl.mzstatic.com
