@@ -1,9 +1,8 @@
 payload:
 
- - DOMAIN-SUFFIX,n26.com,N26
- - DOMAIN-SUFFIX,number26.de,N26
- - DOMAIN-KEYWORD,n26,N26
- - DOMAIN-SUFFIX,idnow.de,N26
+ - DOMAIN-SUFFIX,n26.com
+ - DOMAIN-SUFFIX,number26.de
+ - DOMAIN-SUFFIX,idnow.de
  - DOMAIN-SUFFIX,alicdn.com
  - DOMAIN-SUFFIX,usertrust.com
  - DOMAIN-SUFFIX,apple-dns.cn
