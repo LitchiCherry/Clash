@@ -1,6 +1,7 @@
 payload:
 
  - DOMAIN-SUFFIX,n26.com
+ - DOMAIN-SUFFIX,tech26.de
  - DOMAIN-SUFFIX,number26.de
  - DOMAIN-SUFFIX,idnow.de
  - DOMAIN-SUFFIX,alicdn.com
