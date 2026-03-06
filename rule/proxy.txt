@@ -1,5 +1,9 @@
 payload:
 #addition
+- DOMAIN-KEYWORD,bitget
+- DOMAIN-SUFFIX,bitget.com
+- DOMAIN-SUFFIX,bitget.co
+- DOMAIN-SUFFIX,bitget.app
 - DOMAIN-SUFFIX,dmm.co.jp
 - DOMAIN-SUFFIX,mivm.tv
 - DOMAIN-SUFFIX,novahd.top
