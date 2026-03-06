@@ -1,5 +1,8 @@
 payload:
 #addition
+- DOMAIN-SUFFIX,okex.com
+- DOMAIN-SUFFIX,oklink.com
+- DOMAIN-SUFFIX,okx.com
 - DOMAIN-KEYWORD,bitget
 - DOMAIN-SUFFIX,bitget.com
 - DOMAIN-SUFFIX,bitget.co
