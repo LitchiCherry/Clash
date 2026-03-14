@@ -1,5 +1,6 @@
 payload:
 #addition
+- DOMAIN-SUFFIX,bluetrafficstream.com
 - DOMAIN-SUFFIX,growcdnssedge.com
 - DOMAIN-SUFFIX,unityads.unity3d.com
 - DOMAIN-SUFFIX,unityads.unitychina.cn
