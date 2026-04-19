@@ -1,6 +1,7 @@
 payload:
 #addition
 - DOMAIN-SUFFIX,hdcdn.online
+- DOMAIN-SUFFIX,sp2026.com
 - DOMAIN-SUFFIX,ml0987.com
 - DOMAIN-SUFFIX,okex.com
 - DOMAIN-SUFFIX,oklink.com
