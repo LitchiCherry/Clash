@@ -1,6 +1,7 @@
 payload:
 #addition
 - DOMAIN-SUFFIX,hdcdn.online
+- DOMAIN-SUFFIX,deersim.com
 - DOMAIN-SUFFIX,javsubtitled.com
 - DOMAIN-SUFFIX,avpreview.com
 - DOMAIN-SUFFIX,redteago.com
