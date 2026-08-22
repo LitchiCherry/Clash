@@ -1,5 +1,6 @@
 payload:
 #addition
+- DOMAIN,lens.l.google.com
 - DOMAIN-SUFFIX,pycon.org
 - DOMAIN-SUFFIX,pypa.io
 - DOMAIN-SUFFIX,pypi.io
